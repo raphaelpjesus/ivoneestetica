@@ -1,0 +1,5 @@
+cores
+#4e5d2f - header	
+#6a8543 - footer
+#a3bd31 - letras ativação
+#eaffc0 - background
